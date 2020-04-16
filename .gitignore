@@ -1,1 +1,6 @@
-data
+data/biorxiv_medrxiv/**
+data/comm_use_subset/**
+data/custom_license/**
+data/noncomm_use_subset/**
+data/metadata.csv
+data/data_readme
